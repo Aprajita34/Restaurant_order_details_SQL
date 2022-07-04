@@ -1,6 +1,6 @@
 # Business Objective
 
-The objective of this analysis is to provide data insights to future and existing restaurant owners who are planning to open a food delivery store or running it but has no ideas on below business decisions such as: which cuisine types should they do, which zones to choose for their kitchen site to get the most sales, which is the most effective time period of a day to do marketing,etc. To help these restaurant owners, we use SQL to answer these questions:
+The objective of this analysis is to provide data insights to future restaurant owners who are planning to open a food delivery store but has no ideas on below business decisions such as: which cuisine types should they do, which zones to choose for their kitchen site to get the most sales, which is the most effective time period of a day to do marketing,etc. To help these restaurant owners, we use SQL to answer these questions:
 
 1) Which restaurant received the most orders?
 
